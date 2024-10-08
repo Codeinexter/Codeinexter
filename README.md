@@ -16,7 +16,7 @@ Languages: HTML, CSS, JavaScript
 
 Frameworks/Libraries: Bootstrap, React, Express
 
-Database: SQL, MongoDB
+Databases: SQL, MongoDB
 
 Tools: Git, GitHub, VS Code
 
