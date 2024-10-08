@@ -10,7 +10,7 @@ Hi! I'm a beginner web developer learning and experimenting with basic projects.
 
 ⚡ Fun fact: I love solving coding challenges and learning new frameworks.
 
-# 🚀 Skills & Technologies --->
+# 🚀 Skills & Technologies
 
 Languages: HTML, CSS, JavaScript
 
